@@ -44,8 +44,8 @@ DietSense 是一項研究提案，目標是讓使用者以繁體中文自然語�
 
 ## 05｜研究文件
 
-- [DietSense 完整 A–F 研究提案](docs/DietSense_Proposal_AF.md)
-- [研究預期貢獻與學術價值](docs/DietSense_Research_Contributions.md)
+- [DietSense 完整 A–F 研究提案](diet-agent-proposal/DietSense_Proposal_AF.md)
+- [研究預期貢獻與學術價值](diet-agent-proposal/DietSense_Research_Contributions.md)
 
 ## 06｜研究狀態與注意事項
 
