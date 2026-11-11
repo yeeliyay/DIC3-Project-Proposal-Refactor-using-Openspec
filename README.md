@@ -6,9 +6,7 @@ DietSense 是一項研究提案，目標是讓使用者以繁體中文自然語�
 
 ## 01｜專題提案分析資訊圖表
 
-> **圖片上傳狀態：待上傳。** 請將原始圖片存成 `assets/DietSense_Infographic.png` 並提交至 Repository；完成後以下圖片會自動顯示。這個 README 的建立並不代表圖片已上傳。
-
-![DietSense 專題提案分析資訊圖表](assets/DietSense_Infographic.png)
+![DietSense 專題提案分析資訊圖表](DietSense%20專題提案分析資訊圖表.png)
 
 資訊圖表涵蓋專題定位、六大評分構面、A2Z 學術寫作架構、八大系統模組、Decision / Loop / Exception 流程，以及後續補強建議和預期實驗目標。
 
